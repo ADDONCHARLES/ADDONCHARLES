@@ -23,8 +23,8 @@ MODELO GDRIVE DE APENAS UM LINK
 </item>
 
 <item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=6ti-NkmfxEs
+<Aula>[B]NOME  - [COLOR yellow](2012)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
+plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=6ti-NkmfxEs
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
 <link>URL AQUI$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
@@ -38,8 +38,8 @@ MODELO GDRIVE DE APENAS UM LINK
 MODELO UNIVERSAL DE APENAS UM LINK - LINK DIRETO
 
 <item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>URL AQUI</link>
+<Imperio Selvagem>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
+<link>https://www.youtube.com/watch?v=07oZV4LNfRE</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
